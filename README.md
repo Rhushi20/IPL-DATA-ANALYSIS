@@ -38,13 +38,13 @@ This repository contains a comprehensive **data analysis project on the Indian P
 
 **->** Gained insights into:
 
-  **->** Match dynamics
+   **->** Match dynamics
 
-  **->** Player consistency
+   **->** Player consistency
 
-  **->** Impact of toss decisions
+   **->** Impact of toss decisions
 
-  **->** Geographical match distribution
+   **->** Geographical match distribution
 
 **🔗 Connect**
 
